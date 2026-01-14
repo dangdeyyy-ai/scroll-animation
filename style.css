@@ -57,7 +57,7 @@ html, body {
         transform: translateX(-100%);
         opacity: 0;
     }
-    30% {
+    35% {
         transform: translateX(0);
         opacity: 1;
     }
@@ -68,7 +68,7 @@ html, body {
         transform: translateX(100%);
         opacity: 0;
     }
-    30% {
+    35% {
         transform: translateX(0);
         opacity: 1;
     }
